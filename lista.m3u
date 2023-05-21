@@ -2,6 +2,21 @@
 
 ################################# CANAIS ABERTOS ############### ##################
 
+#EXTINF:-1 tvg-logo='' group-title='Scooby Doo Filme',Scooby-Doo 
+
+rdc://RCFServer2/ondemand/SCBYDO1.mp4
+
+#EXTINF:-1 tvg-logo='' group-title='Scooby Doo Filme',Scooby-Doo 2: Monstros à Solta 
+
+rdc://RCFServer2/ondemand/SCBYDO2.mp4
+
+#EXTINF:-1 tvg-logo='' group-title='Scooby Doo Filme',Scooby-Doo!: O Mistério Começa 
+
+rdc://RCFServer2/ondemand/SCBYDO3.mp4
+
+#EXTINF:-1 tvg-logo='' group-title='Scooby Doo Filme',Scooby-Doo! e a Maldição do Monstro do Lago 
+
+rdc://RCFServer2/ondemand/SCBYDO4.mp4
 #EXTINF:-1 tvg-id="SBTNacional.br" tvg-logo="https://i.imgur.com/srURmsi.png" group-title="CANAIS ABERTOS ADR",SBT
 https://5a2b083e9f360.streamlock.net/bemtv/bemtv.sdp/master.m3u8
 
