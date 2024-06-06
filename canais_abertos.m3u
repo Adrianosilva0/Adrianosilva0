@@ -47,6 +47,14 @@ http://pfsv.io:80/leticia/131278/30200.ts
 #EXTINF:-1 group-title="Canais | Globo" tvg-name="Globo TV Minas HD" tvg-logo="http://p6.vc/ASU",Globo TV Minas HD
 http://pfsv.io:80/leticia/131278/388.ts
 
+#EXTINF:-1 group-title="Canais | Globo" tvg-name="Globo TV SP FHD" tvg-logo="http://p6.vc/ART",Globo TV SP FHD
+http://pfsv.io:80/leticia/131278/354.ts
+
 #EXTINF:-1 group-title="Canais | Globo" tvg-name="Globo TV Minas SD" tvg-logo="http://p6.vc/ATZ",Globo TV Minas SD
 http://pfsv.io:80/leticia/131278/423.ts
 
+#EXTINF:-1 group-title="Canais | Abertos" tvg-name="SBT MG Tv Alterosa HD" tvg-logo="http://p6.vc/VBY",SBT MG Tv Alterosa HD
+http://pfsv.io:80/leticia/131278/59965.ts
+
+#EXTINF:-1 group-title="Canais | Abertos" tvg-name="SBT SD" tvg-logo="http://p6.vc/AHN",SBT SD
+http://pfsv.io:80/leticia/131278/70.ts
