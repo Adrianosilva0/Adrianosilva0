@@ -1,4 +1,7 @@
 #EXTM3U
+
+#################################### CANAIS | ABERTOS #################################### 
+
 #EXTINF:0 group-title="CANAIS | ABERTOS" tvg-name="Record" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/Record_logo_2016.png/revision/latest/scale-to-width-down/1000?cb=20161129172824" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/d/d6/Record_logo_2016.png/revision/latest/scale-to-width-down/1000?cb=20161129172824" ,Record
 http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
 
@@ -38,6 +41,8 @@ https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS | DESENHOS" tvg-name="Retro Cartoon" tvg-logo="https://i.imgur.com/ZJgD38F.png",Retro Cartoon
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1846904097.m3u8
 
+#################################### Canais | Globo #################################### 
+
 #EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://p6.vc/ARZ",Globo TV Minas FHD
 http://pfsv.io:80/leticia/131278/362.ts
 
@@ -53,8 +58,11 @@ http://pfsv.io:80/leticia/131278/354.ts
 #EXTINF:-1 group-title="Canais | Globo" tvg-name="Globo TV Minas SD" tvg-logo="http://p6.vc/ATZ",Globo TV Minas SD
 http://pfsv.io:80/leticia/131278/423.ts
 
-#EXTINF:-1 group-title="Canais | Abertos" tvg-name="SBT MG Tv Alterosa HD" tvg-logo="http://p6.vc/VBY",SBT MG Tv Alterosa HD
-http://pfsv.io:80/leticia/131278/59965.ts
+#################################### Canais | SBT #################################### 
 
-#EXTINF:-1 group-title="Canais | Abertos" tvg-name="SBT SD" tvg-logo="http://p6.vc/AHN",SBT SD
-http://pfsv.io:80/leticia/131278/70.ts
+#EXTINF:-1 group-title="Canais | SBT" tvg-name="SBT RJ HD" tvg-logo="http://p6.vc/AHN",SBT SD
+http://pfsv.io:80/leticia/131278/49111.ts
+
+#################################### Filmes e Séries Space ####################################
+#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://p6.vc/AQI",Space HD
+http://pfsv.io:80/leticia/131278/313.ts
