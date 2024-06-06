@@ -64,5 +64,44 @@ http://pfsv.io:80/leticia/131278/423.ts
 http://pfsv.io:80/leticia/131278/49111.ts
 
 #################################### Filmes e Séries Space ####################################
+
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://p6.vc/AQI",Space HD
 http://pfsv.io:80/leticia/131278/313.ts
+
+#################################### Canais | SporTV ####################################
+
+#EXTINF:-1 group-title="Canais | SporTV" tvg-name="SporTV 2 FHD" tvg-logo="http://p6.vc/AYH",SporTV 2 FHD
+http://pfsv.io:80/leticia/131278/553.ts
+
+#EXTINF:-1 group-title="Canais | SporTV" tvg-name="SporTV 2 FHD [H265]" tvg-logo="http://p6.vc/WHV",SporTV 2 FHD [H265]
+http://pfsv.io:80/leticia/131278/30291.ts
+
+#EXTINF:-1 group-title="Canais | SporTV" tvg-name="SporTV 2 HD" tvg-logo="http://p6.vc/AYK",SporTV 2 HD
+http://pfsv.io:80/leticia/131278/557.ts
+
+#EXTINF:-1 group-title="Canais | SporTV" tvg-name="SporTV 2 SD" tvg-logo="http://p6.vc/AYN",SporTV 2 SD
+http://pfsv.io:80/leticia/131278/560.ts
+
+#EXTINF:-1 group-title="Canais | SporTV" tvg-name="SporTV 3 FHD" tvg-logo="http://p6.vc/WGW",SporTV 3 FHD
+http://pfsv.io:80/leticia/131278/554.ts
+
+#EXTINF:-1 group-title="Canais | SporTV" tvg-name="SporTV 3 FHD [H265]" tvg-logo="http://p6.vc/WHW",SporTV 3 FHD [H265]
+http://pfsv.io:80/leticia/131278/30292.ts
+
+#EXTINF:-1 group-title="Canais | SporTV" tvg-name="SporTV 3 HD" tvg-logo="http://p6.vc/AYL",SporTV 3 HD
+http://pfsv.io:80/leticia/131278/558.ts
+
+#EXTINF:-1 group-title="Canais | SporTV" tvg-name="SporTV 3 SD" tvg-logo="http://p6.vc/AYL",SporTV 3 SD
+http://pfsv.io:80/leticia/131278/561.ts
+
+#EXTINF:-1 group-title="Canais | SporTV" tvg-name="SporTV FHD 1" tvg-logo="http://p6.vc/AYI",SporTV FHD
+http://pfsv.io:80/leticia/131278/555.ts
+
+#EXTINF:-1 group-title="Canais | SporTV" tvg-name="SporTV FHD 2" tvg-logo="http://p6.vc/WHX",SporTV FHD [H265]
+http://pfsv.io:80/leticia/131278/30293.ts
+
+#EXTINF:-1 group-title="Canais | SporTV" tvg-name="SporTV HD" tvg-logo="http://p6.vc/AYJ",SporTV HD
+http://pfsv.io:80/leticia/131278/556.ts
+
+#EXTINF:-1 group-title="Canais | SporTV" tvg-name="SporTV SD" tvg-logo="http://p6.vc/AYM",SporTV SD
+http://pfsv.io:80/leticia/131278/559.ts
