@@ -23,3 +23,9 @@ https://canaleducacao-stream.ebc.com.br/index.m3u8
 https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz.stream/chunklist.m3u8
 #EXTINF:-1 group-title="FILMES | GUERRA" tvg-name="uma ideia" tvg-logo="http://5ce.co:80/images/5rIKVegF7XMPB02RaFaxtFwTPR0_big.jpg",Uma Ideia de Voce - 2024 (L)
 http://5ce.co:80/movie/pamelaflores/92446060a/244386.mp4
+
+#EXTINF:-1 group-title="CANAIS | ABERTOS" tvg-name="SBT SD" tvg-logo="https://i.imgur.com/ZJgD38F.png",SBT sd
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS | DESENHOS" tvg-name="Retro Cartoon" tvg-logo="https://i.imgur.com/ZJgD38F.png",Retro Cartoon
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1846904097.m3u8
