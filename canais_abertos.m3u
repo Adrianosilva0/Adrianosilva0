@@ -1,28 +1,36 @@
 #EXTM3U
-#EXTINF:0 group-title="Canais: Aberta" tvg-name="Record" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/Record_logo_2016.png/revision/latest/scale-to-width-down/1000?cb=20161129172824" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/d/d6/Record_logo_2016.png/revision/latest/scale-to-width-down/1000?cb=20161129172824" ,Record
+#EXTINF:0 group-title="CANAIS | ABERTOS" tvg-name="Record" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/Record_logo_2016.png/revision/latest/scale-to-width-down/1000?cb=20161129172824" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/d/d6/Record_logo_2016.png/revision/latest/scale-to-width-down/1000?cb=20161129172824" ,Record
 http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8
-#EXTINF:0 group-title="Canais: Aberta" tvg-name="RedeTV!" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9a/RedeTV%21_logo_2019.png/revision/latest/scale-to-width-down/250?cb=20191119025631" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/9/9a/RedeTV%21_logo_2019.png/revision/latest/scale-to-width-down/250?cb=20191119025631" ,RedeTV!
+
+#EXTINF:0 group-title="CANAIS | ABERTOS" tvg-name="RedeTV!" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9a/RedeTV%21_logo_2019.png/revision/latest/scale-to-width-down/250?cb=20191119025631" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/9/9a/RedeTV%21_logo_2019.png/revision/latest/scale-to-width-down/250?cb=20191119025631" ,RedeTV!
 https://dtcatf1yeq90t.cloudfront.net/out/v1/474a19630faa47908e790373efc520d9/index_3.m3u8
-#EXTINF:0 group-title="Canais: Aberta" tvg-name="SBT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/SBT_2014.svg/revision/latest/scale-to-width-down/200?cb=20220109225248" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/e/ee/SBT_2014.svg/revision/latest/scale-to-width-down/200?cb=20220109225248" ,SBT
+
+#EXTINF:0 group-title="CANAIS | ABERTOS" tvg-name="SBT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/SBT_2014.svg/revision/latest/scale-to-width-down/200?cb=20220109225248" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/e/ee/SBT_2014.svg/revision/latest/scale-to-width-down/200?cb=20220109225248" ,SBT
 https://simulcast2.sbtvideosonline.com/v1/master/215c0da80606fed29372070168106400a6ca7e1a/SBT-Live-Channel/a7c2cd7ccd84420aa496b5d4cfd9ae79/hlsOutput.m3u8?content_channel_id=12&content_livestream=1
-#EXTINF:0 group-title="Canais: Aberta" tvg-name="TV Diversa" tvg-logo="https://tvdiversa.com.br/wp-content/uploads/2022/11/cropped-cropped-10-DIVERSA-Marca-H-Vermelho-Azul-1-2048x666.png" tvg-logo-small="https://tvdiversa.com.br/wp-content/uploads/2022/11/cropped-cropped-10-DIVERSA-Marca-H-Vermelho-Azul-1-2048x666.png" ,TV Diversa
+
+#EXTINF:0 group-title="CANAIS | ABERTOS" tvg-name="TV Diversa" tvg-logo="https://tvdiversa.com.br/wp-content/uploads/2022/11/cropped-cropped-10-DIVERSA-Marca-H-Vermelho-Azul-1-2048x666.png" tvg-logo-small="https://tvdiversa.com.br/wp-content/uploads/2022/11/cropped-cropped-10-DIVERSA-Marca-H-Vermelho-Azul-1-2048x666.png" ,TV Diversa
 https://tvdiversa.brasilstream.com.br/hls/tvdiversa/index.m3u8
-#EXTINF:0 group-title="Canais: Aberta" tvg-name="TV Gazeta" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/TV_Gazeta.svg/revision/latest/scale-to-width-down/250?cb=20191017192807" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/3/3d/TV_Gazeta.svg/revision/latest/scale-to-width-down/250?cb=20191017192807" ,TV Gazeta
+
+#EXTINF:0 group-title="CANAIS | ABERTOS" tvg-name="TV Gazeta" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/TV_Gazeta.svg/revision/latest/scale-to-width-down/250?cb=20191017192807" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/3/3d/TV_Gazeta.svg/revision/latest/scale-to-width-down/250?cb=20191017192807" ,TV Gazeta
 https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8
-#EXTINF:0 group-title="Canais: Agronegócio" tvg-name="Agro Brasil TV" tvg-logo="https://listaiptv.gratis/logos/imagens/agrocanal.png" tvg-logo-small="https://listaiptv.gratis/logos/imagens/agrocanal.png" ,Agro Brasil TV
+
+#EXTINF:0 group-title="CANAIS | ABERTOS" tvg-name="Agro Brasil TV" tvg-logo="https://listaiptv.gratis/logos/imagens/agrocanal.png" tvg-logo-small="https://listaiptv.gratis/logos/imagens/agrocanal.png" ,Agro Brasil TV
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
-#EXTINF:0 group-title="Canais: Agronegócio" tvg-name="Canal do Boi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Logo_Canal_do_Boi_-_PNG.png/300px-Logo_Canal_do_Boi_-_PNG.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Logo_Canal_do_Boi_-_PNG.png/300px-Logo_Canal_do_Boi_-_PNG.png" ,Canal do Boi
+
+#EXTINF:0 group-title="CANAIS | ABERTOS" tvg-name="Canal do Boi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Logo_Canal_do_Boi_-_PNG.png/300px-Logo_Canal_do_Boi_-_PNG.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Logo_Canal_do_Boi_-_PNG.png/300px-Logo_Canal_do_Boi_-_PNG.png" ,Canal do Boi
 https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador/playlist.m3u8
-#EXTINF:0 group-title="Canais: Agronegócio" tvg-name="Canal do Criador" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/Canal_do_Criador_Logo.svg/revision/latest?cb=20210115030616" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/4/40/Canal_do_Criador_Logo.svg/revision/latest?cb=20210115030616" ,Canal do Criador
+
+#EXTINF:0 group-title="CANAIS | ABERTOS" tvg-name="Canal do Criador" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/Canal_do_Criador_Logo.svg/revision/latest?cb=20210115030616" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/4/40/Canal_do_Criador_Logo.svg/revision/latest?cb=20210115030616" ,Canal do Criador
 https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador/chunklist_w1784781100_b3086000_sleng.m3u8
-#EXTINF:0 group-title="Canais: Agronegócio" tvg-name="Canal Rural" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/Canal_Rural_logo_2019.png/revision/latest?cb=20210115023530" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/d/d8/Canal_Rural_logo_2019.png/revision/latest?cb=20210115023530" ,Canal Rural
+
+#EXTINF:0 group-title="CANAIS | ABERTOS" tvg-name="Canal Rural" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d8/Canal_Rural_logo_2019.png/revision/latest?cb=20210115023530" tvg-logo-small="https://static.wikia.nocookie.net/logopedia/images/d/d8/Canal_Rural_logo_2019.png/revision/latest?cb=20210115023530" ,Canal Rural
 https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/chunklist_w1865502923_b3086000_sleng.m3u8
-#EXTINF:0 group-title="Canais: Educativos" tvg-name="Canal Educação" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/CANALEDUCA%C3%87%C3%83O.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/f/fb/CANALEDUCA%C3%87%C3%83O.png" ,Canal Educação
+
+#EXTINF:0 group-title="CANAIS | ABERTOS" tvg-name="Canal Educação" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/CANALEDUCA%C3%87%C3%83O.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/f/fb/CANALEDUCA%C3%87%C3%83O.png" ,Canal Educação
 https://canaleducacao-stream.ebc.com.br/index.m3u8
-#EXTINF:0 group-title="Canais: Educativos" tvg-name="Canal Saúde" tvg-logo="https://i.imgur.com/iWPpWzW.png" tvg-logo-small="https://i.imgur.com/iWPpWzW.png" ,Canal Saúde
+
+#EXTINF:0 group-title="CANAIS | ABERTOS" tvg-name="Canal Saúde" tvg-logo="https://i.imgur.com/iWPpWzW.png" tvg-logo-small="https://i.imgur.com/iWPpWzW.png" ,Canal Saúde
 https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz.stream/chunklist.m3u8
-#EXTINF:-1 group-title="FILMES | GUERRA" tvg-name="uma ideia" tvg-logo="http://5ce.co:80/images/5rIKVegF7XMPB02RaFaxtFwTPR0_big.jpg",Uma Ideia de Voce - 2024 (L)
-http://5ce.co:80/movie/pamelaflores/92446060a/244386.mp4
 
 #EXTINF:-1 group-title="CANAIS | ABERTOS" tvg-name="SBT SD" tvg-logo="https://i.imgur.com/ZJgD38F.png",SBT sd
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
