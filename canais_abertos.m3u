@@ -37,3 +37,16 @@ https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 
 #EXTINF:-1 group-title="CANAIS | DESENHOS" tvg-name="Retro Cartoon" tvg-logo="https://i.imgur.com/ZJgD38F.png",Retro Cartoon
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1846904097.m3u8
+
+#EXTINF:-1 group-title="Canais | Globo" tvg-logo="http://p6.vc/ARZ",Globo TV Minas FHD
+http://pfsv.io:80/leticia/131278/362.ts
+
+#EXTINF:-1 group-title="Canais | Globo" tvg-name="Globo TV Minas FHD" tvg-logo="http://p6.vc/VDG",Globo TV Minas FHD [H265]
+http://pfsv.io:80/leticia/131278/30200.ts
+
+#EXTINF:-1 group-title="Canais | Globo" tvg-name="Globo TV Minas HD" tvg-logo="http://p6.vc/ASU",Globo TV Minas HD
+http://pfsv.io:80/leticia/131278/388.ts
+
+#EXTINF:-1 group-title="Canais | Globo" tvg-name="Globo TV Minas SD" tvg-logo="http://p6.vc/ATZ",Globo TV Minas SD
+http://pfsv.io:80/leticia/131278/423.ts
+
