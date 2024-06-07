@@ -60,7 +60,7 @@ http://pfsv.io:80/leticia/131278/423.ts
 
 #################################### Canais | SBT #################################### 
 
-#EXTINF:-1 tvg-id="" group-title="Canais | SBT" tvg-name="SBT SD" tvg-logo="http://p6.vc/AHN",SBT SD
+#EXTINF:-1 group-title="Canais | SBT" tvg-name="SBT SD" tvg-logo="http://p6.vc/AHN",SBT SD
 http://pfsv.io:80/leticia/131278/49111.ts
 
 #################################### Filmes e Séries Space ####################################
