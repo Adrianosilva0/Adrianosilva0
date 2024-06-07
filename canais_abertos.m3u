@@ -63,6 +63,9 @@ http://pfsv.io:80/leticia/131278/423.ts
 #EXTINF:-1 group-title="Canais | SBT" tvg-name="SBT SD" tvg-logo="http://p6.vc/AHN",SBT SD
 http://pfsv.io:80/leticia/131278/49111.ts
 
+#EXTINF:-1 group-title="TV" tvg-id="ABC News" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/ABC-News.png",ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
 #################################### Filmes e Séries Space ####################################
 
 #EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://p6.vc/AQI",Space HD
@@ -108,3 +111,4 @@ http://pfsv.io:80/leticia/131278/559.ts
 
 #EXTINF:-1 tvg-id="" group-title="Canais | SporTV" tvg-name="HBO SD" tvg-logo="https://images2.imgbox.com/2c/8b/xZTYGpkb_o.png",HBO SD
 http://bccdn.xyz:80/h7jb9wqn/i8a4i664/78527
+
