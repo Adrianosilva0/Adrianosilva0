@@ -60,16 +60,168 @@ http://pfsv.io:80/leticia/131278/423.ts
 
 #################################### Canais | SBT #################################### 
 
-#EXTINF:-1 group-title="Canais | SBT" tvg-name="SBT SD" tvg-logo="http://p6.vc/AHN",SBT SD
-http://pfsv.io:80/leticia/131278/49111.ts
-
 #EXTINF:-1 tvg-id="Sbtbrasilia.br" tvg-name="SBT BRASILIA HD" tvg-logo="https://images2.imgbox.com/87/74/foECtzHi_o.png" group-title="CANAIS | SBT",SBT BRASILIA HD
 http://bccdn.xyz:80/h7jb9wqn/i8a4i664/346
 
+#EXTINF:-1 tvg-id="sbt.sao.paulo.br" tvg-name="SBT CAMPINAS FHD" tvg-logo="https://images2.imgbox.com/87/74/foECtzHi_o.png" group-title="CANAIS | SBT",SBT CAMPINAS FHD
+http://bccdn.xyz:80/h7jb9wqn/i8a4i664/386
+
+#EXTINF:-1 tvg-id="sbt.sao.paulo.br" tvg-name="SBT CAMPINAS HD" tvg-logo="https://images2.imgbox.com/87/74/foECtzHi_o.png" group-title="CANAIS | SBT",SBT CAMPINAS HD
+http://bccdn.xyz:80/h7jb9wqn/i8a4i664/385
+
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT CIDADE VERDE PI" tvg-logo="https://images2.imgbox.com/87/74/foECtzHi_o.png" group-title="CANAIS | SBT",SBT CIDADE VERDE PI
+http://bccdn.xyz:80/h7jb9wqn/i8a4i664/59921
+
+#EXTINF:-1 tvg-id="" tvg-name="SBT TAILANDIA PA" tvg-logo="https://images2.imgbox.com/87/74/foECtzHi_o.png" group-title="CANAIS | SBT",SBT TAILANDIA PA
+http://bccdn.xyz:80/h7jb9wqn/i8a4i664/59919
+
+#EXTINF:-1 tvg-id="" tvg-name="SBT INTERIOR FHD" tvg-logo="https://images2.imgbox.com/87/74/foECtzHi_o.png" group-title="CANAIS | SBT",SBT INTERIOR FHD
+http://bccdn.xyz:80/h7jb9wqn/i8a4i664/59920
+
+#EXTINF:-1 tvg-id="Agromais.br" tvg-name="SBT PARANÁ FHD" tvg-logo="https://images2.imgbox.com/87/74/foECtzHi_o.png" group-title="CANAIS | SBT",SBT PARANÁ FHD
+http://bccdn.xyz:80/h7jb9wqn/i8a4i664/397
+
+#EXTINF:-1 tvg-id="sbtrs.br" tvg-name="SBT PARANÁ HD" tvg-logo="https://images2.imgbox.com/87/74/foECtzHi_o.png" group-title="CANAIS | SBT",SBT PARANÁ HD
+http://bccdn.xyz:80/h7jb9wqn/i8a4i664/359
+
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT RECIFE FHD" tvg-logo="https://images2.imgbox.com/87/74/foECtzHi_o.png" group-title="CANAIS | SBT",SBT RECIFE FHD
+http://bccdn.xyz:80/h7jb9wqn/i8a4i664/68341
+
+#EXTINF:-1 tvg-id="sbtrj.br" tvg-name="SBT RJ FHD" tvg-logo="https://images2.imgbox.com/87/74/foECtzHi_o.png" group-title="CANAIS | SBT",SBT RJ FHD
+http://bccdn.xyz:80/h7jb9wqn/i8a4i664/370
+
+#EXTINF:-1 tvg-id="sbtrj.br" tvg-name="SBT RJ HD" tvg-logo="https://images2.imgbox.com/87/74/foECtzHi_o.png" group-title="CANAIS | SBT",SBT RJ HD
+http://bccdn.xyz:80/h7jb9wqn/i8a4i664/367
+
+#EXTINF:-1 tvg-id="sbtrj.br" tvg-name="SBT RJ SD" tvg-logo="https://images2.imgbox.com/87/74/foECtzHi_o.png" group-title="CANAIS | SBT",SBT RJ SD
+http://bccdn.xyz:80/h7jb9wqn/i8a4i664/76680
+
+#EXTINF:-1 tvg-id="sbtrs.br" tvg-name="SBT RS HD" tvg-logo="https://images2.imgbox.com/87/74/foECtzHi_o.png" group-title="CANAIS | SBT",SBT RS HD
+http://bccdn.xyz:80/h7jb9wqn/i8a4i664/347
+
+#EXTINF:-1 tvg-id="Agromais.br" tvg-name="SBT SERGIPE HD" tvg-logo="https://images2.imgbox.com/87/74/foECtzHi_o.png" group-title="CANAIS | SBT",SBT SERGIPE HD
+http://bccdn.xyz:80/h7jb9wqn/i8a4i664/348
+
+#EXTINF:-1 tvg-id="sbt.goiania.serra.dourada.br" tvg-name="SBT SERRA DOURADA FHD H265" tvg-logo="https://images2.imgbox.com/87/74/foECtzHi_o.png" group-title="CANAIS | SBT",SBT SERRA DOURADA FHD H265
+http://bccdn.xyz:80/h7jb9wqn/i8a4i664/76682
+
+#EXTINF:-1 tvg-id="sbt.goiania.serra.dourada.br" tvg-name="SBT SERRA DOURADA HD" tvg-logo="https://images2.imgbox.com/87/74/foECtzHi_o.png" group-title="CANAIS | SBT",SBT SERRA DOURADA HD
+http://bccdn.xyz:80/h7jb9wqn/i8a4i664/76683
+
+#EXTINF:-1 tvg-id="sbt.sao.paulo.br" tvg-name="SBT SP FHD" tvg-logo="https://images2.imgbox.com/87/74/foECtzHi_o.png" group-title="CANAIS | SBT",SBT SP FHD
+http://bccdn.xyz:80/h7jb9wqn/i8a4i664/870
+
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP FHD H265" tvg-logo="https://images2.imgbox.com/87/74/foECtzHi_o.png" group-title="CANAIS | SBT",SBT SP FHD H265
+http://bccdn.xyz:80/h7jb9wqn/i8a4i664/76681
+
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP HD" tvg-logo="https://images2.imgbox.com/87/74/foECtzHi_o.png" group-title="CANAIS | SBT",SBT SP HD
+http://bccdn.xyz:80/h7jb9wqn/i8a4i664/429
+
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT SP SD" tvg-logo="https://images2.imgbox.com/87/74/foECtzHi_o.png" group-title="CANAIS | SBT",SBT SP SD
+http://bccdn.xyz:80/h7jb9wqn/i8a4i664/540
+
+#EXTINF:-1 tvg-id="tv.alterosa.br" tvg-name="SBT TV ALTEROSA MG FHD" tvg-logo="https://images2.imgbox.com/87/74/foECtzHi_o.png" group-title="CANAIS | SBT",SBT TV ALTEROSA MG FHD
+http://bccdn.xyz:80/h7jb9wqn/i8a4i664/897
+
+#EXTINF:-1 tvg-id="tv.alterosa.br" tvg-name="SBT TV ALTEROSA MG HD" tvg-logo="https://images2.imgbox.com/87/74/foECtzHi_o.png" group-title="CANAIS | SBT",SBT TV ALTEROSA MG HD
+http://bccdn.xyz:80/h7jb9wqn/i8a4i664/896
+
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT TV ARATU BAHIA HD" tvg-logo="https://images2.imgbox.com/87/74/foECtzHi_o.png" group-title="CANAIS | SBT",SBT TV ARATU BAHIA HD
+http://bccdn.xyz:80/h7jb9wqn/i8a4i664/349
+
+#EXTINF:-1 tvg-id="" tvg-name="SBT TV JANGADEIRO FHD" tvg-logo="https://images2.imgbox.com/87/74/foECtzHi_o.png" group-title="CANAIS | SBT",SBT TV JANGADEIRO FHD
+http://bccdn.xyz:80/h7jb9wqn/i8a4i664/76684
+
+#EXTINF:-1 tvg-id="" tvg-name="SBT TV JANGADEIRO HD" tvg-logo="https://images2.imgbox.com/87/74/foECtzHi_o.png" group-title="CANAIS | SBT",SBT TV JANGADEIRO HD
+http://bccdn.xyz:80/h7jb9wqn/i8a4i664/76685
+
+#EXTINF:-1 tvg-id="Agromais.br" tvg-name="SBT TV JORNAL PERNAMBUCO" tvg-logo="https://images2.imgbox.com/87/74/foECtzHi_o.png" group-title="CANAIS | SBT",SBT TV JORNAL PERNAMBUCO
+http://bccdn.xyz:80/h7jb9wqn/i8a4i664/76686
+
+
 #################################### Filmes e Séries Space ####################################
 
-#EXTINF:-1 group-title="Canais | Filmes e Séries" tvg-logo="http://p6.vc/AQI",Space HD
-http://pfsv.io:80/leticia/131278/313.ts
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE FHD" tvg-logo="https://images2.imgbox.com/22/f0/A8PCst0b_o.png" group-title="CANAIS  | FILMES E SERIES",SPACE FHD
+http://bccdn.xyz:80/h7jb9wqn/i8a4i664/846
+
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE FHD H265" tvg-logo="https://images2.imgbox.com/22/f0/A8PCst0b_o.png" group-title="CANAIS  | FILMES E SERIES",SPACE FHD H265
+http://bccdn.xyz:80/h7jb9wqn/i8a4i664/282
+
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE HD" tvg-logo="https://images2.imgbox.com/22/f0/A8PCst0b_o.png" group-title="CANAIS  | FILMES E SERIES",SPACE HD
+http://bccdn.xyz:80/h7jb9wqn/i8a4i664/70
+
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE SD" tvg-logo="https://images2.imgbox.com/22/f0/A8PCst0b_o.png" group-title="CANAIS  | FILMES E SERIES",SPACE SD
+http://bccdn.xyz:80/h7jb9wqn/i8a4i664/543
+
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL FHD" tvg-logo="http://ccdnblck.xyz:80/images/3b13cbd847e51e5512e1e26ca5df033d.png" group-title="CANAIS  | FILMES E SERIES",STAR CHANNEL FHD
+http://bccdn.xyz:80/h7jb9wqn/i8a4i664/836
+
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL H265 " tvg-logo="http://ccdnblck.xyz:80/images/3b13cbd847e51e5512e1e26ca5df033d.png" group-title="CANAIS  | FILMES E SERIES",STAR CHANNEL H265 
+http://bccdn.xyz:80/h7jb9wqn/i8a4i664/241
+
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL HD" tvg-logo="http://ccdnblck.xyz:80/images/3b13cbd847e51e5512e1e26ca5df033d.png" group-title="CANAIS  | FILMES E SERIES",STAR CHANNEL HD
+http://bccdn.xyz:80/h7jb9wqn/i8a4i664/28
+
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL SD" tvg-logo="http://ccdnblck.xyz:80/images/3b13cbd847e51e5512e1e26ca5df033d.png" group-title="CANAIS  | FILMES E SERIES",STAR CHANNEL SD
+http://bccdn.xyz:80/h7jb9wqn/i8a4i664/481
+
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="CINECANAL FHD " tvg-logo="https://images2.imgbox.com/ae/96/QWqofVz9_o.png" group-title="CANAIS  | FILMES E SERIES",CINECANAL FHD 
+http://bccdn.xyz:80/h7jb9wqn/i8a4i664/837
+
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="CINECANAL HD" tvg-logo="https://images2.imgbox.com/ae/96/QWqofVz9_o.png" group-title="CANAIS  | FILMES E SERIES",CINECANAL HD
+http://bccdn.xyz:80/h7jb9wqn/i8a4i664/29
+
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="CINECANAL SD" tvg-logo="https://images2.imgbox.com/ae/96/QWqofVz9_o.png" group-title="CANAIS  | FILMES E SERIES",CINECANAL SD
+http://bccdn.xyz:80/h7jb9wqn/i8a4i664/482
+
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL FHD" tvg-logo="https://images2.imgbox.com/21/8e/PUZoFdtE_o.png" group-title="CANAIS  | FILMES E SERIES",STUDIO UNIVERSAL FHD
+http://bccdn.xyz:80/h7jb9wqn/i8a4i664/847
+
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL FHD H265" tvg-logo="https://images2.imgbox.com/21/8e/PUZoFdtE_o.png" group-title="CANAIS  | FILMES E SERIES",STUDIO UNIVERSAL FHD H265
+http://bccdn.xyz:80/h7jb9wqn/i8a4i664/286
+
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://images2.imgbox.com/21/8e/PUZoFdtE_o.png" group-title="CANAIS  | FILMES E SERIES",STUDIO UNIVERSAL HD
+http://bccdn.xyz:80/h7jb9wqn/i8a4i664/74
+
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL SD" tvg-logo="https://images2.imgbox.com/21/8e/PUZoFdtE_o.png" group-title="CANAIS  | FILMES E SERIES",STUDIO UNIVERSAL SD
+http://bccdn.xyz:80/h7jb9wqn/i8a4i664/547
+
+#EXTINF:-1 tvg-id="" tvg-name="SUPER GOSPEL" tvg-logo="http://ccdnblck.xyz:80/images/a322b24d90d3b8d6fd383fac084c40cf.png" group-title="CANAIS | RELIGIOSO",SUPER GOSPEL
+http://bccdn.xyz:80/h7jb9wqn/i8a4i664/35627
+
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY FHD" tvg-logo="https://images2.imgbox.com/48/11/zN6v4QgO_o.png" group-title="CANAIS  | FILMES E SERIES",SYFY FHD
+http://bccdn.xyz:80/h7jb9wqn/i8a4i664/857
+
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY FHD H265" tvg-logo="https://images2.imgbox.com/48/11/zN6v4QgO_o.png" group-title="CANAIS  | FILMES E SERIES",SYFY FHD H265
+http://bccdn.xyz:80/h7jb9wqn/i8a4i664/287
+
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY HD" tvg-logo="https://images2.imgbox.com/48/11/zN6v4QgO_o.png" group-title="CANAIS  | FILMES E SERIES",SYFY HD
+http://bccdn.xyz:80/h7jb9wqn/i8a4i664/75
+
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY SD" tvg-logo="https://images2.imgbox.com/48/11/zN6v4QgO_o.png" group-title="CANAIS  | FILMES E SERIES",SYFY SD
+http://bccdn.xyz:80/h7jb9wqn/i8a4i664/548
+
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TNT NOVELAS FHD" tvg-logo="https://images2.imgbox.com/3c/ab/7lDVCd78_o.png" group-title="CANAIS  | FILMES E SERIES",TNT NOVELAS FHD
+http://bccdn.xyz:80/h7jb9wqn/i8a4i664/856
+
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TNT NOVELAS FHD H265" tvg-logo="https://images2.imgbox.com/3c/ab/7lDVCd78_o.png" group-title="CANAIS  | FILMES E SERIES",TNT NOVELAS FHD H265
+http://bccdn.xyz:80/h7jb9wqn/i8a4i664/288
+
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TNT NOVELAS HD" tvg-logo="https://images2.imgbox.com/3c/ab/7lDVCd78_o.png" group-title="CANAIS  | FILMES E SERIES",TNT NOVELAS HD
+http://bccdn.xyz:80/h7jb9wqn/i8a4i664/76
+
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TNT NOVELAS SD" tvg-logo="https://images2.imgbox.com/3c/ab/7lDVCd78_o.png" group-title="CANAIS  | FILMES E SERIES",TNT NOVELAS SD
+http://bccdn.xyz:80/h7jb9wqn/i8a4i664/549
+
+#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM FHD" tvg-logo="https://images2.imgbox.com/76/53/pJquJCtz_o.png" group-title="CANAIS  | FILMES E SERIES",TCM FHD
+http://bccdn.xyz:80/h7jb9wqn/i8a4i664/877
+
+#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM HD" tvg-logo="https://images2.imgbox.com/76/53/pJquJCtz_o.png" group-title="CANAIS  | FILMES E SERIES",TCM HD
+http://bccdn.xyz:80/h7jb9wqn/i8a4i664/131
+
+#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM SD" tvg-logo="https://images2.imgbox.com/76/53/pJquJCtz_o.png" group-title="CANAIS  | FILMES E SERIES",TCM SD
+http://bccdn.xyz:80/h7jb9wqn/i8a4i664/550
+
 
 #################################### Canais | SporTV ####################################
 
